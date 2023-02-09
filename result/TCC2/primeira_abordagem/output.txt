@@ -1,0 +1,252 @@
+----- quantity for alarme falso: 434-----
+----- quantity for algodão-doce: 15-----
+----- quantity for algodão doce: 430-----
+----- quantity for algodao doce: 45-----
+----- quantity for alta temporada: 43-----
+----- quantity for alta-costura: 29-----
+----- quantity for alta costura: 442-----
+----- quantity for alto mar: 264-----
+----- quantity for alto-falante: 145-----
+----- quantity for alto falante: 453-----
+----- quantity for amigo oculto: 326-----
+----- quantity for amigo secreto: 335-----
+----- quantity for amor-próprio: 10-----
+----- quantity for amor próprio: 389-----
+----- quantity for amor proprio: 36-----
+----- quantity for ar condicionado: 482-----
+----- quantity for ar livre: 428-----
+----- quantity for arma branca: 474-----
+----- quantity for ato falho: 473-----
+----- quantity for banho turco: 38-----
+no tweets were found for bode expiatório * found in _1_ below
+----- quantity for bode expiatorio: 9-----
+----- quantity for braço direito: 365-----
+----- quantity for braco direito: 2-----
+----- quantity for buraco negro: 482-----
+----- quantity for café colonial: 399-----
+----- quantity for cafe colonial: 62-----
+----- quantity for caixa-forte: 10-----
+----- quantity for caixa forte: 155-----
+----- quantity for caixa-preta: 39-----
+----- quantity for caixa preta: 368-----
+----- quantity for caixeiro viajante: 83-----
+----- quantity for carne branca: 192-----
+no tweets were found for carne vermelha * found in _1_ below
+----- quantity for carro-forte: 28-----
+----- quantity for carro forte: 268-----
+----- quantity for carta aberta: 469-----
+----- quantity for centro comercial: 432-----
+----- quantity for centro espírita: 399-----
+----- quantity for centro espirita: 48-----
+----- quantity for cerca viva: 25-----
+----- quantity for cheiro-verde: 22-----
+----- quantity for cheiro verde: 362-----
+----- quantity for classe executiva: 243-----
+----- quantity for coluna social: 161-----
+----- quantity for companhia aérea: 445-----
+----- quantity for companhia aerea: 20-----
+----- quantity for conta-corrente: 22-----
+----- quantity for conta corrente: 412-----
+----- quantity for coração partido: 403-----
+----- quantity for coracao partido: 2-----
+----- quantity for corda bamba: 462-----
+----- quantity for cordas vocais: 473-----
+----- quantity for curto-circuito: 111-----
+----- quantity for curto circuito: 460-----
+----- quantity for céu aberto: 424-----
+----- quantity for ceu aberto: 34-----
+----- quantity for círculo vicioso: 386-----
+----- quantity for circulo vicioso: 88-----
+----- quantity for círculo virtuoso: 378-----
+----- quantity for circulo virtuoso: 66-----
+----- quantity for direitos humanos: 475-----
+----- quantity for disco rígido: 395-----
+----- quantity for disco rigido: 86-----
+----- quantity for disco voador: 483-----
+----- quantity for efeito especial: 383-----
+----- quantity for elefante branco: 463-----
+----- quantity for escada rolante: 479-----
+----- quantity for estrela cadente: 472-----
+----- quantity for febre amarela: 451-----
+----- quantity for ficha limpa: 448-----
+----- quantity for fila indiana: 359-----
+----- quantity for fio condutor: 206-----
+no tweets were found for força bruta * found in _1_ below
+----- quantity for forca bruta: 4-----
+----- quantity for gato-pingado: 2-----
+----- quantity for gato pingado: 473-----
+no tweets were found for gelo-seco
+----- quantity for gelo seco: 225-----
+----- quantity for golpe baixo: 407-----
+----- quantity for gripe aviária: 368-----
+----- quantity for gripe aviaria: 65-----
+----- quantity for gripe suína: 219-----
+----- quantity for gripe suina: 33-----
+----- quantity for jogo duro: 240-----
+----- quantity for juízo final: 400-----
+----- quantity for juizo final: 42-----
+----- quantity for lista negra: 446-----
+----- quantity for livre-docente: 24----- 
+no tweets were found for livre docente
+no tweets were found for livro aberto
+----- quantity for longa data: 462-----
+----- quantity for longa-metragem: 241-----
+----- quantity for longa metragem: 477-----
+----- quantity for lua cheia: 435-----
+----- quantity for lua nova: 252-----
+----- quantity for lugar-comum: 52-----
+----- quantity for lugar comum: 144-----
+----- quantity for magia negra: 380-----
+----- quantity for maré baixa: 243-----
+----- quantity for mare baixa: 9-----
+----- quantity for massa cinzenta: 479-----
+----- quantity for mau contato: 291-----
+----- quantity for mau-olhado: 169-----
+no tweets were found for mau olhado
+----- quantity for mercado negro: 419-----
+----- quantity for mesa-redonda: 6-----
+----- quantity for mesa redonda: 474-----
+----- quantity for montanha-russa: 33-----
+----- quantity for montanha russa: 484-----
+----- quantity for má-fé: 477-----
+----- quantity for má fé: 317-----
+----- quantity for ma fe: 27-----
+----- quantity for máquina virtual: 295-----
+----- quantity for maquina virtual: 116-----
+----- quantity for mão fechada: 315-----
+----- quantity for mao fechada: 16-----
+----- quantity for navio negreiro: 184-----
+----- quantity for novo mundo: 31-----
+----- quantity for novo-rico: 24-----
+----- quantity for novo rico: 87-----
+----- quantity for nó cego: 29-----
+----- quantity for no cego: 5-----
+----- quantity for olho gordo: 462-----
+----- quantity for olho mágico: 188-----
+----- quantity for olho magico: 16-----
+----- quantity for olho nu: 404-----
+----- quantity for ovelha negra: 466-----
+----- quantity for paraíso fiscal: 380-----
+----- quantity for paraiso fiscal: 48-----
+----- quantity for pastor alemão: 442-----
+----- quantity for pastor alemao: 30-----
+----- quantity for pau-mandado: 324-----
+----- quantity for pau mandado: 473-----
+----- quantity for pavio curto: 371-----
+----- quantity for pente fino: 440-----
+----- quantity for peso morto: 451-----
+----- quantity for planta baixa: 349-----
+----- quantity for ponto cego: 355-----
+----- quantity for ponto forte: 191-----
+----- quantity for ponto fraco: 442-----
+----- quantity for poção mágica: 116-----
+----- quantity for pocao magica: 5-----
+----- quantity for prato feito: 243-----
+----- quantity for primeira infância: 210-----
+----- quantity for primeira infancia: 10-----
+----- quantity for primeira mão: 349-----
+----- quantity for primeira mao: 4-----
+----- quantity for primeira necessidade: 119-----
+----- quantity for primeira-dama: 112-----
+----- quantity for primeira dama: 482-----
+----- quantity for primeiro ministro: 365-----
+----- quantity for primeiro plano: 133-----
+----- quantity for pronto-socorro: 49-----
+----- quantity for pronto socorro: 442-----
+----- quantity for príncipe encantado: 358-----
+no tweets were found for principe encantado
+----- quantity for puro-sangue: 67-----
+----- quantity for puro sangue: 225-----
+----- quantity for pão-duro: 84-----
+no tweets were found for pão duro
+----- quantity for pao duro: 40-----
+----- quantity for pé quente: 320-----
+----- quantity for pe quente: 24-----
+----- quantity for pé-direito: 27-----
+no tweets were found for pé direito
+no tweets were found for pe direito
+----- quantity for pé-frio: 160-----
+no tweets were found for pé frio
+----- quantity for pe frio: 32-----
+----- quantity for pólo-aquático: 1-----
+----- quantity for pólo aquático: 32-----
+----- quantity for polo aquatico: 46-----
+----- quantity for quadro-negro: 23-----
+----- quantity for quadro negro: 268-----
+no tweets were found for queda livre
+----- quantity for quinta categoria: 385-----
+----- quantity for rede social: 488-----
+----- quantity for relógio biológico: 441-----
+----- quantity for relogio biologico: 28-----
+----- quantity for reta final: 470-----
+----- quantity for roleta russa: 482-----
+----- quantity for saia justa: 457-----
+----- quantity for sangue azul: 416-----
+----- quantity for sangue frio: 450-----
+----- quantity for sangue quente: 315-----
+----- quantity for secretária eletrônica: 72-----
+----- quantity for secretaria eletronica: 10-----
+----- quantity for segundas intenções: 426-----
+----- quantity for segundas intencoes: 1-----
+no tweets were found for segundo plano
+----- quantity for sexto sentido: 473-----
+----- quantity for sinal verde: 325-----
+----- quantity for sétima arte: 436-----
+----- quantity for setima arte: 35-----
+----- quantity for tapete vermelho: 481-----
+----- quantity for tempo real: 160-----
+----- quantity for terceira idade: 465-----
+----- quantity for terceira pessoa: 400-----
+----- quantity for tiro livre: 292-----
+----- quantity for trabalho braçal: 417-----
+----- quantity for trabalho bracal: 2-----
+----- quantity for vaca louca: 400-----
+----- quantity for vinho branco: 354-----
+----- quantity for vista grossa: 324-----
+----- quantity for viva voz: 365-----
+----- quantity for vôo doméstico: 25-----
+----- quantity for voo domestico: 9-----
+no tweets were found for água doce
+----- quantity for agua doce: 22-----
+----- quantity for ônibus executivo: 74-----
+no tweets were found for onibus executivo
+
+
+-- segunda tentativa para os que falharam _1_ --
+
+----- quantity for bode expiatório: 480-----
+----- quantity for bode expiatorio: 9-----
+----- quantity for carne vermelha: 454-----
+----- quantity for força bruta: 456-----
+----- quantity for forca bruta: 4-----
+no tweets were found for gelo-seco
+----- quantity for gelo seco: 227-----
+----- quantity for livre-docente: 24-----
+no tweets were found for livre docente
+no tweets were found for livro aberto
+no tweets were found for mau-olhado
+no tweets were found for mau olhado
+----- quantity for príncipe encantado: 356-----
+no tweets were found for principe encantado
+----- quantity for pão-duro: 84-----
+no tweets were found for pão duro
+no tweets were found for pao duro
+----- quantity for pé-direito: 27-----
+no tweets were found for pé direito
+no tweets were found for pe direito
+----- quantity for queda livre: 449-----
+----- quantity for segundo plano: 426-----
+----- quantity for água doce: 206-----
+----- quantity for agua doce: 22-----
+----- quantity for ônibus executivo: 74-----
+----- quantity for onibus executivo: 8-----
+
+
+-- multipalavras que contém palavras com "au" (ex: mau, pau) substituido "au" por "al" ------- quantity for mal-contato: 3-----
+
+----- quantity for mal contato: 168-----
+----- quantity for mal-olhado: 12-----
+no tweets were found for mal olhado
+no tweets were found for pal-mandado
+
+----- quantity for pal mandado: 166-----
