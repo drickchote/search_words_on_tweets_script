@@ -1,0 +1,187 @@
+----- Quantidades para abalo sísmico: 443-----
+----- Quantidades para acampamento militar: 55-----
+----- Quantidades para agente secreto: 487-----
+----- Quantidades para alarme falso: 472-----
+----- Quantidades para algodão-doce: 486-----
+----- Quantidades para alta temporada: 487-----
+----- Quantidades para alta-costura: 496-----
+----- Quantidades para alto mar: 495-----
+----- Quantidades para alto-falante: 484-----
+----- Quantidades para amigo oculto: 491-----
+----- Quantidades para amigo secreto: 476-----
+----- Quantidades para amor-próprio: 483-----
+----- Quantidades para ano-novo: 486-----
+----- Quantidades para ar condicionado: 489-----
+----- Quantidades para ar livre: 492-----
+----- Quantidades para arma branca: 498-----
+----- Quantidades para ato falho: 479-----
+----- Quantidades para banho turco: 39-----
+----- Quantidades para batata-doce: 485-----
+----- Quantidades para bebida alcoólica: 489-----
+----- Quantidades para bode expiatório: 500-----
+----- Quantidades para braço direito: 493-----
+----- Quantidades para buraco negro: 487-----
+----- Quantidades para café colonial: 492-----
+----- Quantidades para caixa-forte: 484-----
+----- Quantidades para caixa-preta: 500-----
+----- Quantidades para caixeiro viajante: 85-----
+----- Quantidades para carne branca: 200-----
+----- Quantidades para carne vermelha: 483-----
+----- Quantidades para carro-forte: 482-----
+----- Quantidades para carta aberta: 479-----
+----- Quantidades para centro comercial: 494-----
+----- Quantidades para centro espírita: 475-----
+----- Quantidades para cerca viva: 94-----
+----- Quantidades para cheiro-verde: 492-----
+----- Quantidades para circuito integrado: 68-----
+----- Quantidades para coluna social: 153-----
+----- Quantidades para colégio militar: 498-----
+----- Quantidades para comida caseira: 485-----
+----- Quantidades para companhia aérea: 495-----
+----- Quantidades para conta-corrente: 496-----
+----- Quantidades para coração partido: 493-----
+----- Quantidades para corda bamba: 477-----
+----- Quantidades para cordas vocais: 483-----
+----- Quantidades para curto-circuito: 489-----
+----- Quantidades para câmara fria: 186-----
+----- Quantidades para céu aberto: 499-----
+----- Quantidades para círculo vicioso: 493-----
+----- Quantidades para círculo virtuoso: 497-----
+----- Quantidades para deputado federal: 498-----
+----- Quantidades para desfile militar: 494-----
+----- Quantidades para direitos humanos: 493-----
+----- Quantidades para disco rígido: 495-----
+----- Quantidades para disco voador: 492-----
+----- Quantidades para efeito especial: 461-----
+----- Quantidades para elefante branco: 490-----
+----- Quantidades para escada rolante: 488-----
+----- Quantidades para estrela cadente: 482-----
+----- Quantidades para exame clínico: 134-----
+----- Quantidades para exame laboratorial: 46-----
+----- Quantidades para farinha integral: 114-----
+----- Quantidades para febre amarela: 493-----
+----- Quantidades para ficha limpa: 497-----
+----- Quantidades para fila indiana: 362-----
+----- Quantidades para fio condutor: 230-----
+----- Quantidades para força bruta: 497-----
+----- Quantidades para gato-pingado: 475-----
+----- Quantidades para gelo-seco: 475-----
+----- Quantidades para golpe baixo: 481-----
+----- Quantidades para governo federal: 500-----
+----- Quantidades para gripe aviária: 499-----
+----- Quantidades para gripe suína: 359-----
+----- Quantidades para guarda-florestal: 499-----
+----- Quantidades para jogo duro: 495-----
+----- Quantidades para juízo final: 477-----
+----- Quantidades para leite integral: 449-----
+----- Quantidades para lista negra: 473-----
+----- Quantidades para livre-docente: 63-----
+----- Quantidades para livro aberto: 470-----
+----- Quantidades para longa data: 484-----
+----- Quantidades para longa-metragem: 492-----
+----- Quantidades para lua cheia: 490-----
+----- Quantidades para lua nova: 479-----
+----- Quantidades para lugar-comum: 491-----
+----- Quantidades para magia negra: 486-----
+----- Quantidades para mar aberto: 484-----
+----- Quantidades para maré alta: 474-----
+----- Quantidades para maré baixa: 333-----
+----- Quantidades para massa cinzenta: 489-----
+----- Quantidades para mau contato: 291-----
+----- Quantidades para mau-humor: 488-----
+----- Quantidades para mau-olhado: 466-----
+----- Quantidades para mercado negro: 493-----
+----- Quantidades para mesa-redonda: 499-----
+----- Quantidades para montanha-russa: 492-----
+----- Quantidades para má-fé: 498-----
+----- Quantidades para máquina virtual: 487-----
+----- Quantidades para mão-fechada: 487-----
+----- Quantidades para navio negreiro: 184-----
+----- Quantidades para novo mundo: 489-----
+----- Quantidades para novo-rico: 486-----
+----- Quantidades para nó cego: 490-----
+----- Quantidades para núcleo atômico: 47-----
+----- Quantidades para olho gordo: 477-----
+----- Quantidades para olho mágico: 480-----
+----- Quantidades para olho nu: 490-----
+----- Quantidades para ovelha negra: 478-----
+----- Quantidades para papel higiênico: 500-----
+----- Quantidades para paraíso fiscal: 500-----
+----- Quantidades para pastor alemão: 486-----
+----- Quantidades para pau-mandado: 492-----
+----- Quantidades para pavio curto: 473-----
+----- Quantidades para pente fino: 496-----
+----- Quantidades para peso morto: 486-----
+----- Quantidades para planta baixa: 495-----
+----- Quantidades para ponto cego: 486-----
+----- Quantidades para ponto forte: 480-----
+----- Quantidades para ponto fraco: 477-----
+----- Quantidades para poção mágica: 181-----
+----- Quantidades para prato feito: 484-----
+----- Quantidades para primeira infância: 491-----
+----- Quantidades para primeira mão: 496-----
+----- Quantidades para primeira necessidade: 262-----
+----- Quantidades para primeira-dama: 499-----
+----- Quantidades para primeiro ministro: 499-----
+----- Quantidades para primeiro plano: 487-----
+----- Quantidades para processo seletivo: 481-----
+----- Quantidades para pronto-socorro: 483-----
+----- Quantidades para príncipe encantado: 484-----
+----- Quantidades para puro-sangue: 496-----
+----- Quantidades para pão-duro: 483-----
+----- Quantidades para pé quente: 496-----
+----- Quantidades para pé-direito: 496-----
+----- Quantidades para pé-frio: 498-----
+----- Quantidades para pólo-aquático: 494-----
+----- Quantidades para quadro-negro: 335-----
+----- Quantidades para queda livre: 485-----
+----- Quantidades para quinta categoria: 493-----
+----- Quantidades para rede social: 491-----
+----- Quantidades para regime político: 499-----
+----- Quantidades para relógio analógico: 232-----
+----- Quantidades para relógio biológico: 488-----
+----- Quantidades para reta final: 497-----
+----- Quantidades para roda gigante: 484-----
+----- Quantidades para roleta russa: 482-----
+----- Quantidades para saia justa: 489-----
+----- Quantidades para sala cirúrgica: 65-----
+----- Quantidades para salão paroquial: 147-----
+----- Quantidades para sangue azul: 488-----
+----- Quantidades para sangue frio: 484-----
+----- Quantidades para sangue quente: 482-----
+----- Quantidades para secretária eletrônica: 113-----
+----- Quantidades para segundas intenções: 479-----
+----- Quantidades para segundo plano: 490-----
+----- Quantidades para sentença judicial: 195-----
+----- Quantidades para sexto sentido: 484-----
+----- Quantidades para sinal verde: 493-----
+----- Quantidades para sistema político: 499-----
+----- Quantidades para sétima arte: 486-----
+----- Quantidades para tapete vermelho: 496-----
+----- Quantidades para tartaruga-marinha: 496-----
+----- Quantidades para tela plana: 241-----
+----- Quantidades para tempo real: 494-----
+----- Quantidades para terceira idade: 486-----
+----- Quantidades para terceira pessoa: 486-----
+----- Quantidades para tiro livre: 382-----
+----- Quantidades para trabalho braçal: 488-----
+----- Quantidades para trabalho escravo: 486-----
+----- Quantidades para vaca louca: 488-----
+----- Quantidades para vinho branco: 478-----
+----- Quantidades para vinho tinto: 487-----
+----- Quantidades para vista grossa: 499-----
+----- Quantidades para viva voz: 486-----
+----- Quantidades para voto secreto: 498-----
+----- Quantidades para vôo doméstico: 148-----
+----- Quantidades para vôo internacional: 497-----
+----- Quantidades para água doce: 497-----
+----- Quantidades para água mineral: 496-----
+----- Quantidades para ônibus executivo: 96-----
+
+
+
+
+
+
+
+

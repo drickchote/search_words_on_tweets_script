@@ -1,0 +1,40 @@
+----- Quantidades para acampamento militar: 55-----
+----- Quantidades para banho turco: 39-----
+Tweets não encontrados para a palavra caixeiro viajante e query: "caixeiro viajante"
+Tweets não encontrados para a palavra cerca viva e query: "cerca viva"
+Tweets não encontrados para a palavra circuito integrado e query: "circuito integrado"
+----- Quantidades para exame laboratorial: 46-----
+Tweets não encontrados para a palavra livre-docente e query: "livre-docente"OR"livre docente"
+----- Quantidades para núcleo atômico: 47-----
+Tweets não encontrados para a palavra sala cirúrgica e query: "sala cirúrgica"OR"sala cirurgica"
+Tweets não encontrados para a palavra ônibus executivo e query: "ônibus executivo"OR"onibus executivo"
+
+
+--- Segunda tentativa (com as que não foram encontradas acima ) -------
+
+
+----- Quantidades para caixeiro viajante: 85-----
+Tweets não encontrados para a palavra cerca viva e query: "cerca viva"
+Tweets não encontrados para a palavra circuito integrado e query: "circuito integrado"
+----- Quantidades para livre-docente: 63-----
+Tweets não encontrados para a palavra sala cirúrgica e query: "sala cirúrgica"OR"sala cirurgica"
+Tweets não encontrados para a palavra ônibus executivo e query: "ônibus executivo"OR"onibus executivo"
+
+
+--- Segunda tentativa (com as que não foram encontradas acima) -------
+
+----- Quantidades para cerca viva: 94-----
+----- Quantidades para circuito integrado: 68-----
+Tweets não encontrados para a palavra sala cirúrgica e query: "sala cirúrgica"OR"sala cirurgica"
+Tweets não encontrados para a palavra ônibus executivo e query: "ônibus executivo"OR"onibus executivo"
+
+--- Terceira tentativa (com as que não foram encontradas acima) -------
+
+----- Quantidades para sala cirúrgica: 65-----
+
+Tweets não encontrados para a palavra ônibus executivo e query: "ônibus executivo"OR"onibus executivo"
+
+
+--- Terceira tentativa (com ônibus executivo) -------
+
+----- Quantidades para ônibus executivo: 97-----
