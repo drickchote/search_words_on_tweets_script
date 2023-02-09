@@ -39,7 +39,6 @@ Tweets não encontrados para a palavra coluna social e query: "coluna social"
 ----- Quantidades para colégio militar: 498-----
 ----- Quantidades para comida caseira: 485-----
 ----- Quantidades para companhia aérea: 495-----
------ Quantidades para compound: 498-----
 ----- Quantidades para conta-corrente: 496-----
 ----- Quantidades para coração partido: 493-----
 ----- Quantidades para corda bamba: 477-----

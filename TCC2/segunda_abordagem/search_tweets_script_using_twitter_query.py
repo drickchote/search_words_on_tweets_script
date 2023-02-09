@@ -60,7 +60,6 @@ words = [
 # "coluna social",
 # "comida caseira",
 # "companhia aérea",
-# "compound",
 # "conta-corrente",
 # "coração partido",
 # "corda bamba",
@@ -272,7 +271,7 @@ def generate_csv_text(tweet):
 def find_tweets(query):
     url = base_url+query
     headers = {
-        "Authorization": "Bearer AAAAAAAAAAAAAAAAAAAAADPZlgEAAAAAmpyFyXI5IHGaZBFRYKnuLnLbXLk%3DtwQbcxQX2SHdFScz7jBxp3wztNg0pP4AOltymXKveU24Ym0zTy",
+        "Authorization": "Bearer seu_token",
         "User-Agent": "curl/7.61.0",
         "Content-Type": "application/json;charset=UTF-8"
 
